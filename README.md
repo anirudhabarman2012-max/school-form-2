@@ -1,4 +1,4 @@
-# school-form-2
+# school-form
 <!DOCTYPE html>
 <html lang="en">
 <head>
